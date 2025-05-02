@@ -1,4 +1,4 @@
-import Card from './assets/components/Card/Card'
+import TailwindText from './assets/components/Text/Text'
 
 import './App.css'
 
@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <Card/>
+      <TailwindText/>
     </>
   )
 }
